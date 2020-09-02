@@ -2,10 +2,9 @@
 # App de Lista de Tarefas
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/17XuTVYWY2Ba7yKwZpMgXFTLXC1u6ozCr/view?usp=sharing" width="200" height="400" />
-  <img src="https://drive.google.com/file/d/10jJ6zDurYOIxym3IGGMrF23YHhRJWVrm/view?usp=sharing" width="200" height="400" />
   <img src="./src/pictures/Exemplo1.png" width="200" height="400" />
   <img src="./src/pictures/Exemplo2.png" width="200" height="400" />
+  <img src="./src/pictures/Exemplo4.mp4" width="200" height="400" />
 </p>
 
 ---
