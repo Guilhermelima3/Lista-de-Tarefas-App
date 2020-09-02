@@ -1,6 +1,6 @@
 
 # App de Lista de Tarefas
-
+ - Telas
 <p align="center">
   <img src="./src/pictures/Exemplo1.png" width="200" height="400" />
   <img src="./src/pictures/Exemplo2.png" width="200" height="400" />
