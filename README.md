@@ -4,7 +4,6 @@
 <p align="center">
   <img src="./src/pictures/Exemplo1.png" width="200" height="400" />
   <img src="./src/pictures/Exemplo2.png" width="200" height="400" />
-  <img src="./src/pictures/Exemplo4.mp4" width="200" height="400" />
 </p>
 
 ---
